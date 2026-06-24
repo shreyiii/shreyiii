@@ -2,12 +2,8 @@ Hi, I'm Shrey Srivastava 👋
 
 I'm a B.Tech Computer Science student passionate about software development, artificial intelligence, and problem-solving. I enjoy building web applications, exploring AI/ML technologies, and solving data structures and algorithms challenges. I'm constantly learning new technologies and working on projects that combine creativity with real-world impact.
 
-🚀 Tech Stack: C++, Python, JavaScript, React, HTML, CSS, Machine Learning
-
+🚀 Always open to learning, collaborating, and contributing to exciting projects.
 📚 Currently learning: Advanced DSA, Full-Stack Development, and AI Applications
-
-🌱 Always open to learning, collaborating, and contributing to exciting projects.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shrey.iii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrey-srivastava27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavashrey56@gmail.com) 
